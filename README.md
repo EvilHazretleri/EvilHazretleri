@@ -7,7 +7,7 @@
 <a href="https://github.com/EvilHazretleri" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
 </br><img src="https://komarev.com/ghpvc/?username=EvilHazretleri&color=dc143c&label=Ziyaretçi&color=6182e1" alt="methsalvo"/>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/852664248638898196?animated=true&borderRadius=7px&theme=dark)](https://discord.com/users/852664248638898196
+[![Discord Presence](https://lanyard.cnrad.dev/api/852664248638898196?animated=true&borderRadius=7px&theme=dark)](https://discord.com/users/85266424863889819)
 </p>
 
 ## Langauges I Know:
