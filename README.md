@@ -3,7 +3,7 @@
 <h3>My Personal accounts:</h3>
 <p align="left">
 <a href="https://discord.com/users/852664248638898196" target"blank_"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
-<a href="https://instagram.com/evilcnm_" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://instagram.com/dgsjklgdskljgdsklj" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://github.com/EvilHazretleri" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
 </br><img src="https://komarev.com/ghpvc/?username=EvilHazretleri&color=dc143c&label=Ziyaretçi&color=6182e1" alt="evilxd"/>
 
